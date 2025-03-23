@@ -49,3 +49,5 @@ Atualmente busco aumentar meu conhecimento e me especializar em todo tipo de pro
 
 
 [![Replit](https://img.shields.io/badge/Replit-100000?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@NatashaIukiko) Visite meu Replit para ver meus programas em C !
+
+Link do meu perfil da Dio https://www.dio.me/users/nat_migui
