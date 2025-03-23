@@ -1,1 +1,0 @@
-Aqui estão alguns dos programas que eu desenvolvi durante meus estudos na faculdade
