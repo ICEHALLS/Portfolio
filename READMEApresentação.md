@@ -1,6 +1,7 @@
 
 # Olá, eu sou a Natasha! 👋
 
+Visite meu perfil da Dio -> https://www.dio.me/users/nat_migui
 ![Descrição da Imagem](https://i.imgur.com/SnS2PpO.png)
 
 Com uma formação enraizada em Física de Partículas e um compromisso com a educação, sou uma pesquisadora e tutora. Minha trajetória acadêmica é marcada pelo meu trabalho em análise de decaimento de partículas subatômicas, apoiado por prestigiadas bolsas do PIBIC CNPq e da FAPESP. Essa experiência de pesquisa impulsiona meu objetivo de desvendar os mistérios do universo por meio de rigorosas investigações científicas.
